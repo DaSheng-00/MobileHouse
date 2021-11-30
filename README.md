@@ -11,13 +11,28 @@
 
 未来5到10年内，住房会变成什么样？交通工具什么样？
 本书进行了合理预测，并给出成本可行性分析，对自动驾驶、电池等技术的当前进展汇总分析。
+
 人工智能部分，是入门科普讲解，帮助零AI基础的读者理解其背后的大致原理。
+
 本书尤其适合计划买房、租房的人群阅读，可能会改变一些人买房租房的传统观念；对电动汽车、房车等生产商也有一定参考价值。
 
 若发现文中有错误纰漏，欢迎各位读者提醒指正，具体问题可发送至邮箱qsl_hi@163.com，或者在github 的issues留言，在此表示诚挚的感谢！
 
 ---
+Is it possible for wandering wanderers to rent a house in the city center for less than 1,000 yuan?
+
+No matter where I go to work, can I walk home in a few minutes after get off work?
+
+Can parents let self-driving cars transport their children to and from school?
+
+Is flying house around the world really an unattainable dream?
+
+After reading this book, you will have clear answers to these questions. 
+
 What will the housing be like in the next 5 to 10 years? What will the transportation be like?
-This book makes reasonable predictions and gives a cost feasibility analysis, and a summary analysis of current advances in technologies such as autonomous driving and batteries. The artificial intelligence section, an introductory science explanation, helps readers with zero AI foundation understand the general principles behind it.
+This book makes reasonable predictions and gives a cost feasibility analysis, and a summary analysis of current advances in technologies such as autonomous driving and batteries. 
+
+The artificial intelligence section, an introductory science explanation, helps readers with zero AI foundation understand the general principles behind it.
 This book is especially suitable for people who plan to buy or rent a house, which may change the traditional concept of buying and renting a house for some people; it also has some reference value for manufacturers of electric cars and RVs.
+
 If you find any errors or omissions in the article, welcome to remind and correct them. You can send specific questions to qsl_hi@163.com or leave a message on github issues. Thank you sincerely !
